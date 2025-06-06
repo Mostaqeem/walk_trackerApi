@@ -1,3 +1,3 @@
 # walk_trackerApi
 
-Walk tracking based on the rigions situated in NewZealand.
+Walk tracking system based on the regions situated in NewZealand.
