@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\dtos\\addregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\dtos\\addregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|d:\\visual studio projects\\nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE12B7-1346-4AE1-9232-1D0D26875DAC}|NZWalks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateRegionDTO.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\UpdateRegionDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateRegionDTO.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\UpdateRegionDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateRegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:02:43.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:20:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRegionDTO.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\AddRegionDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AddRegionDTO.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\AddRegionDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\AddRegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:30:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NZWalksDbcontext.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Data\\NZWalksDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\NZWalksDbcontext.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Data\\NZWalksDbcontext.cs",
+              "RelativeToolTip": "Data\\NZWalksDbcontext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:09:37.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Walk.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "Models\\Domain\\Walk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:44:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionDTO.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\RegionDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegionDTO.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\DTOs\\RegionDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:55:05.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Region.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:49:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Difficulty.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "Models\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:48:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\NZWalks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\NZWalks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:01:37.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
